@@ -1,0 +1,11 @@
+Codebuch
+
+name = Name der Person
+id = Kurzbeschreibung der Person
+"sex = Geschlecht, 1 = weiblich, 2 = männlich"
+"strength = Stärke der Beziehung, 1 = jeden Tag, 2 = mindest einmal pro Woche, 3 = mindestens einmal im Monat, 4 = seltener als einmal im Monat, 5 = keine Verbindung"
+"relationship = Beziehung zu der Personen, 1 = Partner/in, 2 = Mutter/Vater, 3 = Schwester/Bruder, 4 = Kind, 5 = Nachbar/in, 6 = Arbeitskollegen, 7 = Kommilitone/in, 8 = Mitglied in gleicher Gruppe), 9 = Freund/in, 10 = Ratgeber/in"
+"duration = wie lange die Personen sich schon kennen, 1 = weniger als drei Jahre, 2 = drei bis sechs Jahre, 3 = mehr als sechs Jahre"
+age = Alter der Person
+"education = Bildungsgrad der Person, 1 = Hauptschule, 2 = Mittlere Reife, 3 = Fachhochschulreife, 4 = Abiture, 5 = Studium, 6 = unbekannt"
+"religious affiliation = religiöse Zugehörigkeit der Person, 1 = evangelisch, 2 = katholisch, 3 = islamisch, 4 = buddhistisch, 5 = orthodox, 6 = andere, 7 = keine"
