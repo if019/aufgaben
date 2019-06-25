@@ -1,0 +1,15 @@
+from,to
+pd,re
+le,re
+kh,re
+me,re
+kh,pd
+me,pd
+le,pd
+me,le
+pd,le
+re,kh
+pd,kh
+re,me
+pd,me
+le,me
